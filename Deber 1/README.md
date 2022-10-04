@@ -92,7 +92,7 @@ Una vez que se cumplan ambos sentidos del enunciado, el problema queda resuelto.
 * $f_1(n) = \sqrt{n}$
 * $f_2(n) = n^3$
 * $f_3(n) = \binom{n}{4}$
-* $f_4(n) = \sum_{i=2}^{n}(i-1)$
+* $f_4(n) = \sum_ {i=2}^{n}(i-1)$
 
 En primer lugar, se grafica cada función para tener una idea de cuales son más rápidas que otras. Una vez encontrado se ordena desde la función con mayor complejidad hasta la que tiene menor complejidad, en orden descendente. 
 
